@@ -18,10 +18,10 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Jeff Holtzman"  # (translatable)
-BLOG_TITLE = "My Nikola Site"  # (translatable)
+BLOG_TITLE = "My Data Science Site"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://github.com/jkholtzman/jkholtzman.gihub.io"
+SITE_URL = "https://github.com/jkholtzman/jkholtzman.gihub.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://github.com/jkholtzman/jkholtzman.gihub.io"
