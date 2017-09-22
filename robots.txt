@@ -1,0 +1,4 @@
+Sitemap: https://github.com/jkholtzman/jkholtzman.gihub.io/sitemapindex.xml
+
+User-Agent: *
+Host: github.com
